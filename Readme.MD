@@ -7,6 +7,7 @@ __Principal Analyst, Database Administration Team, Enterprise Data & Analytics @
 * ☁️ __Primary Role__: Google Cloud Platform Administrator
 * 🔑 __Secondary Role__: Microsoft SQL Server 2019 Master Data Services Administration/Curator
 * 🚥 __Tertiary Role__: Data Quality / Mapping Team - Support & Documentation
+* *__An ounce of actionable insights is worth more than a train load of data.__*
 * 🌟 __My Evolution__: Fast Food Cashier > Nerd at a PC Repair shop > Call Center Tech Support+CSR > Master QA Lead Analyst (Contact Center Tech / Escalations) > Workforce Management Reporting Analyst > Identity Access Management > WFM Reporting Analyst in Business Analyst Role > Enterprise Intelligence Data Mapping Analyst > Google Cloud Platform Administrator.
   
 #### Who is Casey Benefield?__
