@@ -4,7 +4,7 @@
 #### 🏢 My Day Job
 __Principal Analyst, Database Administration Team, Enterprise Data & Analytics @ TTEC Holdings__
 * Find me on LinkedIn: [cbenefield](https://www.linkedin.com/in/cbenefield/)
-* ☁️ __Primary Role__: Google Cloud Platform Administrator
+* ☁️ __Primary Role__: Google Cloud Platform Administrator // Changing 2/12/2024
 * 🔑 __Secondary Role__: Microsoft SQL Server 2019 Master Data Services Administration/Curator
 * 🚥 __Tertiary Role__: Data Quality / Mapping Team - Support & Documentation
 * *__An ounce of actionable insights is worth more than a train load of data.__*
