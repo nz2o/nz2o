@@ -14,3 +14,6 @@ __Database Administrator II @ Motion__
 * ✅ __Core Values__: Take the initiative. Seek understanding before execution. Be thoughtful of other stakeholders and be open to their ideas. Stay up to date with timely & efficient communication. Keep documentation and processes updated as part of continuous growth. Look for the best ROI/the most impact towards improving the world for others. Always do the right thing, the ethical thing, even when there is no direct benefit.
 * ⚡ Technology Interests: I'm a technology enthusiast, first, without many limits. Programming, infrastructure, data/database/analysis, servers, networking, connectivity.
 * ❤️ Personal Interests: Amateur radio, the story of people, weather, technology, Star Trek, retro gaming/computing, firefighting, and serving my community.
+
+#### Repository Note
+Most of the code items that I have is in a private Git, locally hosted. This account is used only for items which are imminently important to post publicly.
