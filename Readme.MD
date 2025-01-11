@@ -11,8 +11,6 @@ __Database Administrator II @ Motion__
 * 🌟 __My Evolution__: Fast Food Cashier > Nerd at a PC Repair shop > Call Center Tech Support+CSR > Master QA Lead Analyst (Contact Center Tech / Escalations) > Workforce Management Reporting Analyst > Identity Access Management > WFM Reporting Analyst in Business Analyst Role > Enterprise Intelligence Data Mapping Analyst > Google Cloud Platform Administrator > Database Administrator II.
   
 #### Who is Casey Benefield?
-* ✅ __Core Values__: Take the initiative, seek understanding before execution, be thoughtful of other stakeholders and be open to their ideas, stay up to date with timely & efficient communication, keep documentation and processes updated as part of continuous growth, look for the best ROI/the most impact towards improving the world for others. Always do the right thing, the ethical thing, even when there is no direct benefit.
+* ✅ __Core Values__: Take the initiative. Seek understanding before execution. Be thoughtful of other stakeholders and be open to their ideas. Stay up to date with timely & efficient communication. Keep documentation and processes updated as part of continuous growth. Look for the best ROI/the most impact towards improving the world for others. Always do the right thing, the ethical thing, even when there is no direct benefit.
 * ⚡ Technology Interests: I'm a technology enthusiast, first, without many limits. Programming, infrastructure, data/database/analysis, servers, networking, connectivity.
-* ❤️ Personal Interests: Amateur radio, weather, firefighting, and serving my community.
-* 💞 Married
-
+* ❤️ Personal Interests: Amateur radio, the story of people, weather, technology, Star Trek, retro gaming/computing, firefighting, and serving my community.
