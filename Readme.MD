@@ -1,5 +1,5 @@
 # Casey Benefield
-### 💻📈 Technology & Analytics Professional / 📻Communications Enthusiast (Amateur Radio/GMRS/Mesh)
+### 💻📈 Technology & Analytics Professional / 📻Radio Communications Enthusiast
 
 #### 🏢 My Day Job
 __Database Administrator II__
